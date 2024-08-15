@@ -1,0 +1,7 @@
+.react-viewer.react-viewer-transition.react-viewer-inline.viewer-container {
+  height: 800px;
+}
+
+.react-viewer-inline {
+  min-height: 600px !important;
+}
